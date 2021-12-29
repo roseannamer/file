@@ -1,1 +1,64 @@
-Hello Universe! 12/29/2021 1:47:33 PM
+
+---------
+Model: X5
+Price: 1900000
+CC: 3000
+Color: Silver
+Year: 2018
+Abs: have abs
+Transmission: Auto
+Class type: SUV
+
+unuploaded attempt
+
+---------
+Model: X5
+Price: 1900000
+CC: 3000
+Color: Yellow
+Year: 2019
+Abs: have abs
+Transmission: Auto
+Class type: SUV
+
+unuploaded attempt
+
+---------
+Model: Superb
+Price: 600000
+CC: 1400
+Color: Red
+Year: 2018
+Abs: have abs
+Transmission: Auto
+Class type: Sedan
+
+---------
+Model: Superb
+Price: 600000
+CC: 1400
+Color: White
+Year: 2015
+Abs: have abs
+Transmission: Auto
+Class type: Sedan
+
+---------
+Model: Superb
+Price: 600000
+CC: 1400
+Color: Yellow
+Year: 2018
+Abs: have abs
+Transmission: Auto
+Class type: Sedan
+
+---------
+Model: Grand Cerato
+Price: 369000
+CC: 1600
+Color: Red
+Year: 2022
+Abs: have abs
+Transmission: Auto
+Class type: Sedan
